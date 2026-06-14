@@ -1,0 +1,4 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: null
